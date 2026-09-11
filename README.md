@@ -1,14 +1,14 @@
 Hey, I'm Rocco 👋
 
-I'm currently learning and exploring the world of technology.
+I'm an independent learner exploring technology, cybersecurity, and software development.
 
 🧠 Currently Learning
 
-- 💻 Programming & Software Development
 - 🔐 Cyber Security & Ethical Hacking
+- 💻 Programming & Software Development
+- 🐧 Linux & Termux
 - 🌐 Web Development
 - ⛓️ Web3 & Blockchain
-- 🐧 Linux & Termux
 - 🤖 Automation & AI
 
 🛠️ What I'm Doing
